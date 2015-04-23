@@ -1,7 +1,0 @@
----
-title: Academic webpages in R
----
-
-***
-
-Yo.

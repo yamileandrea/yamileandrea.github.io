@@ -1,5 +1,0 @@
----
-title: "CV"
----
-
-Add a link to your CV here.
