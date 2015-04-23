@@ -2,6 +2,12 @@
 title: "Bio"
 ---
 
+<div align="center">
+  <img src="images/yd.jpg">
+</div>
+
+***
+
 About me
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
