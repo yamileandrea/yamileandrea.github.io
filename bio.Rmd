@@ -3,7 +3,7 @@ title: "Bio"
 ---
 
 <div align="center">
-  <img src="images/mateoyamile.jpg">
+  <img src="images/my.jpg">
 </div>
 
 ***
