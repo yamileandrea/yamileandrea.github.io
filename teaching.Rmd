@@ -12,9 +12,12 @@ output:
 
 I am an instructor in the Department of Spanish and Portuguese. I am a part of the Spanish for heritage learners program and teach students who are native Spanish speakers.
 
-*Intermediate Spanish I for Hertiage Learners (SPAN 253)
-+Fall 2014, 1 section 
-+Spring 2015, 2 sections
+* Intermediate Spanish I for Hertiage Learners (SPAN 253)
 
-*Intermediate Spanish II for Heritage Learners (SPAN 323)
-+Summer 2015, 1 section
++ Fall 2014, 1 section 
+
++ Spring 2015, 2 sections
+
+* Intermediate Spanish II for Heritage Learners (SPAN 323)
+
++ Summer 2015, 1 section
