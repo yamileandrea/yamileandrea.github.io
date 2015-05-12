@@ -9,8 +9,10 @@ output:
   <img src="images/teaching.jpg">
 </div>
 
+***
 
-I am an instructor in the Department of Spanish and Portuguese. I am a part of the Spanish for heritage learners program and teach students who are native Spanish speakers.
+
+I am an instructor in the Department of Spanish and Portuguese. Specifically,I work for   the Spanish for heritage Learners Program, a program designed specifically for native speakers of Spanish.
 
 * Intermediate Spanish I for Hertiage Learners (SPAN 253)
 
