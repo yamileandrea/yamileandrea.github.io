@@ -14,7 +14,7 @@ output:
 
 I am an instructor in the Department of Spanish and Portuguese. Specifically,I work for   the Spanish for heritage Learners Program, a program designed specifically for native speakers of Spanish.
 
-#Courses Taught:
+###Courses Taught:
 
 * Intermediate Spanish I for Hertiage Learners (SPAN 253)
 + Fall 2014, 1 section 
